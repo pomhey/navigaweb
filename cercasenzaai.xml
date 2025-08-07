@@ -7,5 +7,5 @@
     <Param name="q" value="{searchTerms}"></Param>
     <Param name="udm" value="14"></Param>
   </Url>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://tenbluelinks.org/opensearch.xml"></Url>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://raw.githubusercontent.com/pomhey/navigaweb/refs/heads/main/cercasenzaai.xml"></Url>
 </OpenSearchDescription>
