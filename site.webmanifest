@@ -29,5 +29,33 @@
       "purpose": "any"
     }
   ],
+  "shortcuts": [
+    {
+      "name": "Cerca nel sito",
+      "short_name": "Cerca",
+      "description": "Cerca guide, articoli e trucchi su Navigaweb",
+      "url": "/p/blog-page.html?utm_source=pwa_shortcut",
+      "icons": [
+        {
+          "src": "https://2.bp.blogspot.com/-5AK5eB3uMoQ/XHZPz8zMCXI/AAAAAAABwG8/WngVF1L8gWshYMpHt5ATIJEBZUbDBGWjwCLcBGAs/w192-h192-p-k-no-nu/favicon2.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Strumenti e Web App",
+      "short_name": "Apps",
+      "description": "Tutti gli strumenti online gratuiti di Navigaweb",
+      "url": "/p/strumenti-online-gratuiti-per-pc-e.html?utm_source=pwa_shortcut",
+      "icons": [
+        {
+          "src": "https://2.bp.blogspot.com/-5AK5eB3uMoQ/XHZPz8zMCXI/AAAAAAABwG8/WngVF1L8gWshYMpHt5ATIJEBZUbDBGWjwCLcBGAs/w192-h192-p-k-no-nu/favicon2.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
   "categories": ["news", "tech", "utilities"]
 }
